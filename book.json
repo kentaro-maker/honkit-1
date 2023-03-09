@@ -1,0 +1,12 @@
+{
+  "gitbook": ">=3.0.0",
+  "title": "Comparison JS Frameworks",
+  "root": "./source/",
+  "structure": {
+    "readme": "index.md",
+    "summary": "README.md"
+  },
+  "author": "Kentaro Ito",
+  "description": "This Book shows differences betwenn js frameworks such as Vue, React and so on.",
+  "language": "ja"
+}
